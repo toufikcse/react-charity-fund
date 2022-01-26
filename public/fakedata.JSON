@@ -1,0 +1,121 @@
+[
+    {
+      "id": 1,
+      "name": "Elon Musk",
+      "company": "Space X",
+      "occupation": "Space mission",
+      "donetedMoney": 9900000,
+      "age": 50,
+      "country": "USA",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/3/34/Elon_Musk_Royal_Society_%28crop2%29.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Jeff Bezos",
+      "company": "Amazon",
+      "occupation": "Entrepreneur",
+      "donetedMoney": 9800000,
+      "age": 58,
+      "country": "USA",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Jeff_Bezos_at_Amazon_Spheres_Grand_Opening_in_Seattle_-_2018_%2839074799225%29_%28cropped%29.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Jack Ma",
+      "company": "Alibaba Group",
+      "occupation": "Business magnate",
+      "donetedMoney": 9700000,
+      "age": 57,
+      "country": "China",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Enabling_eCommerce-_Small_Enterprises%2C_Global_Players_%2839008130265%29_%28cropped%29.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Bill Gates",
+      "company": "Microsoft",
+      "occupation": "Software developer",
+      "age": 66,
+      "country": "USA",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Bill_Gates_2017_%28cropped%29.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Mark Zuckerberg",
+      "company": "Meta",
+      "occupation": "Media proprietor",
+      "donetedMoney": 9600000,
+      "age": 37,
+      "country": "USA",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/1/18/Mark_Zuckerberg_F8_2019_Keynote_%2832830578717%29_%28cropped%29.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Ratan Tata",
+      "company": "TATA",
+      "occupation": "Businessman",
+      "donetedMoney": 9500000,
+      "age": 84,
+      "country": "India",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Ratan_Tata_photo.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Larry Page",
+      "company": "Google",
+      "occupation": "Computer scientist",
+      "donetedMoney": 9400000,
+      "age": 48,
+      "country": "USA",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Larry_Page_in_the_European_Parliament%2C_17.06.2009_%28cropped%29.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Bernard Arnault",
+      "company": "LVMH",
+      "occupation": "Businessman",
+      "donetedMoney": 9300000,
+      "age": 72,
+      "country": "France",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/d/de/Bernard_Arnault_%283%29_-_2017_%28cropped%29.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Sergey Brin",
+      "company": "Google",
+      "occupation": "Computer scientist",
+      "donetedMoney": 9200000,
+      "age": 48,
+      "country": "USA",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Sergey_Brin_cropped.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Warren Buffett",
+      "company": "Berkshire Hathaway",
+      "occupation": "Businessman",
+      "donetedMoney": 9100000,
+      "age": 91,
+      "country": "USA",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Warren_Buffett_at_the_2015_SelectUSA_Investment_Summit_%28cropped%29.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Mukesh Ambani",
+      "company": "Reliance Industries",
+      "occupation": "Businessman",
+      "donetedMoney": 9000000,
+      "age": 64,
+      "country": "India",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/6/69/Mukesh_Ambani.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Michael Dell",
+      "company": "Dell",
+      "occupation": "Businessman",
+      "donetedMoney": 8900000,
+      "age": 56,
+      "country": "USA",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Michael_Dell_2010.jpg"
+    }
+]

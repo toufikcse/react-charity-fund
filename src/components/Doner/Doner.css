@@ -1,0 +1,7 @@
+.doner-style {
+    /* display: grid;
+    grid-template-columns: repeat(3, 1fr); */
+}
+.doner-style img {
+    width: 100px;
+}
